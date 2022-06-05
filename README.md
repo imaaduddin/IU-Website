@@ -1,0 +1,1 @@
+This is my personal website where I list out my skills, projects and blog posts. It is build using HTML, CSS and JavaScript. 
